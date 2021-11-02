@@ -30,5 +30,5 @@ Les fonctionnalités attendues par le magasinier sont:
 
 # Démonstration vidéo:
 
-Uploading Stock Management.mp4…
+https://user-images.githubusercontent.com/62358941/139899180-f2dd92f9-eb1c-4537-806a-0083d291fdfc.mp4
 
