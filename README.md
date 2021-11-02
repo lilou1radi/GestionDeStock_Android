@@ -21,8 +21,14 @@ Les fonctionnalités attendues par le magasinier sont:
 
 # Diagramme de Classes :
 
+![classdiag](https://user-images.githubusercontent.com/62358941/139889477-1e95dfe5-827e-45bd-88bf-289a67f7306a.PNG)
+
 
 # Diagramme de cas d'utilisation :
 
+![usecase1](https://user-images.githubusercontent.com/62358941/139889233-1e565d60-2d95-44dd-b97b-e1c6b8039530.PNG)
 
+# Démonstration vidéo:
+
+Uploading Stock Management.mp4…
 
